@@ -1,0 +1,21 @@
+// .section_home{
+// width: 1200px;
+// height: 100px;
+// }
+.d-block_w-100{
+    max-width: 100%;
+    height: 800px;
+}
+.cards_home{
+    margin-right: 50px;
+}
+.home_containars{
+    display: flex;
+}
+.cards_home:last-child{
+    margin-right: 0px;
+}
+.pages_home{
+    width: 439px;
+    height: 548px;
+}
